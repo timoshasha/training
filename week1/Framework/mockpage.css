@@ -1,0 +1,62 @@
+.mockup-overlay {
+   top: 0;
+   position: absolute;
+   z-index: -1;
+   opacity: 0.4;
+}
+
+.row{
+  font-family: 'Verdana',sans-serif;
+  font-size: 18px;
+  padding: 10px;
+  font-weight:300;
+  color:#747784;
+}
+
+.header{
+  color: #747784;
+  font-size:60px;
+}
+
+h2{
+  color: #f07c17;
+}
+
+.img{
+  margin-top:20px;
+  margin-bottom:20px;
+  border:0;
+
+}
+.text{
+  font-size:16px;
+  font-family:arial;
+  line-heading:200px;
+}
+
+.features{
+  border:1px solid;
+  border-color:#ccc;
+  line-height:200%;
+
+}
+.feat{
+  color: #f07c17;
+}
+
+
+body{
+
+}
+P{
+  color:##666;
+}
+.container
+{
+  font-family: 'Verdana',sans-serif;
+  margin-top:22px;
+  margin-bottom:20px;
+  margin-right:8px;
+  line-height:210%;
+
+}

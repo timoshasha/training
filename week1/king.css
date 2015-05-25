@@ -1,0 +1,10 @@
+.head{
+  font-weight: light;
+  font-size:20px;
+}
+p
+{
+  overflow:auto;
+  text-left;
+  text-color:bule;
+}
